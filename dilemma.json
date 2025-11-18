@@ -1,0 +1,11 @@
+{
+  "people": 6,
+  "case_1": {
+    "swerve": true,
+    "reason": "Minimizes total harm."
+  },
+  "case_2": {
+    "swerve": false,
+    "reason": "Protect the child."
+  }
+}
